@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "wsl.exe",
+            "args": [
+                "/home/kerdo/.config/herd-lite/bin/php",
+                "/home/kerdo/tunniplaan/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
